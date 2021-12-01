@@ -1,5 +1,7 @@
 # INTRODUCTION
 
+**UPDATE**: *CVE-2021-26777 has been assigned to the buffer overflow vulnerability described in the following article.*
+
 This article reveals the results of the analysis of one of the several electrical smart metering concentrators available in the Spanish market, and widely spread throughout Spain and Portugal.
 
 All the vulnerabilities have been communicated to the vendor (with no response from his side), and it looks like they don't care too much, because after more than a year (and several firmware versions later) the last firmware version shows the same weaknesses. Trying to follow a constructive approach, all the references to the vendor have been shaded.
