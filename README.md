@@ -12,7 +12,7 @@ This article doesn't intend to be the result of a deep review of the firmware. R
 
 TLDR: Once you have physical access to the device, the game is over.
 
-<p style="margin-left: 30px;"><img src="./images/2.jpg" style="border: 1px solid black;" width="45%" /></p>
+<p style="margin-left: 30px;"><img src="./images/1.jpg" style="border: 1px solid black;" width="45%" /></p>
 
 A quick glance at the device shows that the lid labelled as *CPU* can be easily removed just levering it open. Inside you can find a PCB with a three PIN header that invites us to connect a serial adapter.
 
