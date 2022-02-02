@@ -45,7 +45,7 @@ Navigating within the web portal, a firmware update functionality was detected.
 
 <p style="margin-left: 30px;"><img src="./images/10.png" style="border: 1px solid black;" width="70%" /></p>
 
-However, looking at the firwmare file distributed by the vendor, and used for the previous update function, we just see an OpenSSL encrypted file (*data*) and a MD5 sum file (*hash.md5*), both packed into a *tar* file
+However, looking at the firmware file distributed by the vendor, and used for the previous update function, we just see an OpenSSL encrypted file (*data*) and a MD5 sum file (*hash.md5*), both packed into a *tar* file
 
 <p style="margin-left: 30px;"><img src="./images/11.png" style="border: 1px solid black;" width="50%" /></p>
 
